@@ -1,5 +1,5 @@
 # 🌱 Automatic-Plant-Watering-System
-An Arduino-based automatic irrigation system designed to monitor soil moisture and automatically water plants when the soil becomes dry.
+An Arduino-based automatic irrigation system designed to monitor soil moisture and automatically water plants when the soil becomes dry. Which takes the reading values from the plant to be shown on a graph.
 
 ---
 
