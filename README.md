@@ -39,5 +39,4 @@ This project includes two variations of code using an Arduino microcontroller, s
 
 ---
 
-Author 
-Kenneth Ly
+Author: Kenneth Ly
