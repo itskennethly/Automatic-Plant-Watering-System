@@ -3,9 +3,24 @@ An Arduino-based automatic irrigation system designed to monitor soil moisture a
 
 📌 Project Overview
 
-This project uses an Arduino microcontroller, soil moisture sensor, and water pump to automate plant watering. It monitors soil moisture levels and activates the water pump when the soil moisture falls below a defined threshold.
+This project includes two variations of code using an Arduino microcontroller, soil moisture sensor, and water pump to automate plant watering. It monitors soil moisture levels and activates the water pump when the soil moisture falls below a defined threshold.
+Java Version: 
+MATLAB Version: 
 
 ⚙️ Features
 - Real-time soil moisture monitoring
 - Automatic water pump activation
 - Arduino based control system
+
+💾Hardware
+- Arduino
+- Moisture Sensor
+- Water Pump
+- Water Supply
+- Pot for Plant
+- MOSFET
+- Driver Circuit
+- Battery
+
+Author 
+Kenneth Ly
