@@ -16,6 +16,10 @@ MATLAB Version: Embedded Data Visualization Monitoring System
 - Arduino based control system
 
 ---
+💻Software
+- MATLAB
+- MATLAB Support Package for Arduino Hardware
+---
 
 💾Hardware
 - Arduino
