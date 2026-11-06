@@ -20,6 +20,11 @@ This project includes two variations of code using an Arduino microcontroller, s
 💻Software
 - MATLAB
 - MATLAB Support Package for Arduino Hardware
+- IntelliJ IDEA
+- Java Swing
+- Firmata Protocol
+- SSD1206 OLED Display Library
+- Java Swing Graphics
 ---
 
 💾Hardware
